@@ -1,5 +1,5 @@
 # oversampling-experiments-with-aptos
-Supporting experiments for arxiv 2001.06926
+Supporting experiments for arxiv 2001.06296 [link](https://arxiv.org/abs/2001.06296)
 
 Jupyter notebook attached included the experiments done.
 
